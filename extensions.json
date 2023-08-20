@@ -10,6 +10,16 @@
             "icon": "https://github.com/lnbits/nostr-relay-extension/raw/main/static/image/nostrrelay.png",
             "archive": "https://github.com/lnbits/nostr-relay-extension/archive/refs/tags/v0.21.zip",
             "hash": "730c68e1756185c2bdb928f40246fd82c8c55b033924380de266206631147741"
+        },
+        {
+            "id": "pegging",
+            "repo": "https://github.com/lnbits/pegging",
+            "name": "Pegging",
+            "version": "0.0.3",
+            "short_description": "SynthStables",
+            "icon": "https://github.com/lnbits/pegging/raw/main/static/image/peg.png",
+            "archive": "https://github.com/lnbits/pegging/archive/refs/tags/0.0.3.zip",
+            "hash": "ca5448a940a69bb46bbc40037a148336aca50d7bbac440b6afcf11629c5b9154"
         }
     ]
 }
